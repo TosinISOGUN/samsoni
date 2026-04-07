@@ -18,6 +18,7 @@ const TrustSection = () => (
             <Award className="h-10 w-10 text-primary shrink-0" />
             <div>
               <p className="font-bold text-foreground text-sm">NAFDAC Certified</p>
+              <p className="text-muted-foreground text-xs">Reg No: E1-6702L</p>
               <p className="text-muted-foreground text-xs">Fully registered & regularly inspected</p>
             </div>
           </div>

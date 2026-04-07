@@ -20,7 +20,7 @@ export const products: Product[] = [
     size: "60cl x 20 sachets (1 bag)",
     price: "₦300",
     image: sachetImg,
-    description: "Our signature sachet water, perfect for everyday hydration. NAFDAC approved and hygienically packaged.",
+    description: "Our signature sachet water, perfect for everyday hydration. NAFDAC approved (Reg No: E1-6702L) and hygienically packaged.",
   },
   {
     id: "sachet-bulk",

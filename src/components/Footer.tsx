@@ -8,15 +8,13 @@ const Footer = () => (
           <div className="mb-4">
             <img src={logo} alt="SAMSONI logo" className="h-12 w-auto brightness-0 invert" />
           </div>
-          <p className="text-primary-foreground/60 text-sm">Clean, NAFDAC-approved water for homes, offices, and events across Lagos.</p>
+          <p className="text-primary-foreground/60 text-sm">Clean, NAFDAC-certified water (Reg No: E1-6702L) for homes, offices, and events across Lagos.</p>
         </div>
 
         <div>
           <h4 className="font-bold mb-3 text-sm">Quick Links</h4>
           <div className="flex flex-col gap-2 text-sm text-primary-foreground/60">
-            <a href="#home" className="hover:text-secondary transition-colors">Home</a>
             <a href="#products" className="hover:text-secondary transition-colors">Products</a>
-            <a href="#delivery" className="hover:text-secondary transition-colors">Delivery</a>
             <a href="#about" className="hover:text-secondary transition-colors">About Us</a>
             <a href="#contact" className="hover:text-secondary transition-colors">Contact</a>
           </div>

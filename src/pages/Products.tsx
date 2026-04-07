@@ -24,7 +24,7 @@ const ProductsPage = () => {
 
             <h1 className="text-3xl md:text-4xl font-bold text-foreground mb-2">Our Products</h1>
             <p className="text-muted-foreground mb-8 max-w-lg">
-              Browse our full catalog of NAFDAC-approved water products. Order via WhatsApp for fast delivery.
+              Browse our full catalog of NAFDAC-approved water products (Reg No: E1-6702L). Order via WhatsApp for fast delivery.
             </p>
 
             {/* Category filters */}
