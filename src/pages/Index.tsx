@@ -14,8 +14,8 @@ import SEO from "@/components/SEO";
 const Index = () => (
   <>
     <SEO 
-      title="Pure Hydration for Lagos"
-      description="NAFDAC-approved (Reg No: E1-6702L) premium water delivery service in Lagos. Order sachet bags, bottled packs, and dispenser refills directly to your doorstep."
+      title="Integrity in Every Drop"
+      description="NAFDAC-certified premium water delivery in Lagos. Experience pure, refreshing hydration for homes, offices, and events. Sachet bags, bottled packs, and 19L refills delivered with integrity."
     />
     <Navbar />
     <HeroSection />

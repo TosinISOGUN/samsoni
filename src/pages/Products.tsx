@@ -16,8 +16,8 @@ const ProductsPage = () => {
   return (
     <>
       <SEO 
-        title="Premium Water Products"
-        description="Explore our range of NAFDAC-approved water: sachet bags, bottled water (35cl, 50cl, 75cl), and 19L dispenser refills. Premium quality hydration delivered across Lagos."
+        title="Our Premium Water Range"
+        description="Explore our NAFDAC-approved hydration solutions: sachet bags, premium bottled sizes, and dispenser refills. Produced with integrity and delivered across Lagos."
         canonical="/products"
       />
       <Navbar />
