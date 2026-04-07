@@ -21,7 +21,7 @@ const SEO = ({
   const fullTitle = title ? `${title} | ${siteTitle}` : `${siteTitle} — Clean Water Delivered in Lagos`;
   const defaultDescription = "SAMSONI — NAFDAC-certified (Reg No: E1-6702L) pure water delivered to homes, offices, and events across Lagos. Sachet, bottled, and dispenser water.";
   const metaDescription = description || defaultDescription;
-  const siteUrl = "https://samsoni.com.ng"; // Placeholder, updated in crawl phase
+  const siteUrl = "https://samsoni.vercel.app"; // Final production domain
   const fullCanonical = canonical ? `${siteUrl}${canonical}` : siteUrl;
 
   return (
