@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import WhatsAppFloat from "@/components/WhatsAppFloat";
+import SEO from "@/components/SEO";
 import { Button } from "@/components/ui/button";
 import { products, categories } from "@/lib/products";
 import { getWhatsAppLink } from "@/lib/whatsapp";
@@ -14,6 +15,11 @@ const ProductsPage = () => {
 
   return (
     <>
+      <SEO 
+        title="Premium Water Products"
+        description="Explore our range of NAFDAC-approved water: sachet bags, bottled water (35cl, 50cl, 75cl), and 19L dispenser refills. Premium quality hydration delivered across Lagos."
+        canonical="/products"
+      />
       <Navbar />
       <main className="pt-16">
         <section className="section-padding bg-background">
